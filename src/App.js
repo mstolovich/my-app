@@ -1,26 +1,3 @@
-<<<<<<< HEAD
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-=======
 import React, {useEffect} from 'react';
 import { GooglePddMap } from './components/GoogleMap/GoogleMap'
 
@@ -58,7 +35,6 @@ function App() {
           containerElement = {<div style={{height: `1000px`, width: '1000px' }}/>}
           mapElement = {<div style={{height: '100%'}}/>}
       />
->>>>>>> 014b33b5df495f9d135da2a9305afd5788664aec
     </div>
   );
 }
