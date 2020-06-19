@@ -3,8 +3,7 @@
   "homepage": "http://mstolovich.github.io/my-app",
   "name": "my-app",
 =======
-  "name": "dnipromap",
->>>>>>> 014b33b5df495f9d135da2a9305afd5788664aec
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
