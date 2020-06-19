@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .App {
   text-align: center;
 }
@@ -16,6 +17,14 @@
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
+=======
+#map {
+  height: 100%;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 20vh;
+>>>>>>> 014b33b5df495f9d135da2a9305afd5788664aec
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -24,6 +33,7 @@
   color: white;
 }
 
+<<<<<<< HEAD
 .App-link {
   color: #61dafb;
 }
@@ -36,3 +46,5 @@
     transform: rotate(360deg);
   }
 }
+=======
+>>>>>>> 014b33b5df495f9d135da2a9305afd5788664aec

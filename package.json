@@ -1,6 +1,10 @@
 {
+<<<<<<< HEAD
   "homepage": "http://mstolovich.github.io/my-app",
   "name": "my-app",
+=======
+  "name": "dnipromap",
+>>>>>>> 014b33b5df495f9d135da2a9305afd5788664aec
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,11 +13,18 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+<<<<<<< HEAD
     "react-scripts": "3.4.1"
   },
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+=======
+    "react-google-maps": "^9.4.5",
+    "react-scripts": "3.4.1"
+  },
+  "scripts": {
+>>>>>>> 014b33b5df495f9d135da2a9305afd5788664aec
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -33,8 +44,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "devDependencies": {
     "gh-pages": "^3.0.0"
+=======
+>>>>>>> 014b33b5df495f9d135da2a9305afd5788664aec
   }
 }
